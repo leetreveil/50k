@@ -3,7 +3,7 @@ onmessage = function(e){
 
 		var a = [];
 
-		for (var i = 50000; i >= 0; i--) {
+		for (var i = 5000000000000; i >= 0; i--) {
 		    a.push(i);
 		};
 
